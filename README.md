@@ -29,8 +29,6 @@ A maioria dos projetos neste repositório foi desenvolvida utilizando o **Google
 
 ## 📂 Estrutura do Repositório
 * `/Regressão Linear`: Contém o notebook e o dataset utilizado no primeiro projeto.
-* `/data`: Armazenamento de datasets locais (quando aplicável).
-* `/docs`: Relatórios e arquivos complementares.
 
 ---
 *Este repositório é atualizado conforme o progresso das atividades letivas do semestre 2026.1.*

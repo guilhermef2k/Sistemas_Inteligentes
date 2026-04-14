@@ -42,7 +42,7 @@ Construção de um modelo de **Regressão Logística** para classificar a presen
 A maioria dos projetos neste repositório foi desenvolvida utilizando o **Google Colab**, permitindo um ambiente de desenvolvimento em nuvem colaborativo e focado em Ciência de Dados.
 
 ## 📂 Estrutura do Repositório
-* `/Regressão Linear`: Contém o notebook e o `dataset` utilizado no primeiro projeto.
+* `/Regressão Linear`: Contém o notebook e a pasta `dataset` utilizado no primeiro projeto.
 * `/Regressão Logística`: Contém o notebook e a pasta `dataSet` com os dados de Cleveland.
 
 ---

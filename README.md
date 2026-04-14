@@ -16,7 +16,7 @@ Repositório destinado ao armazenamento e documentação dos trabalhos e projeto
 Este projeto consistiu na construção de um modelo matemático de **Regressão Linear Múltipla** para prever a produção de energia de uma usina de ciclo combinado com base em sensores ambientais.
 
 * **Objetivo:** Otimizar o despacho energético através da análise de variáveis como Temperatura (AT), Vácuo (V), Pressão (AP) e Umidade (RH).
-* **Resultados Alcançados:** * **R²:** 0.9301 (O modelo explica 93% da variabilidade dos dados).
+* **Resultados Alcançados:** **R²:** 0.9301 (O modelo explica 93% da variabilidade dos dados).
     * **RMSE:** 4.5026 MW (Baixo desvio médio nas previsões).
 * **Tecnologias:** Python, Pandas, Scikit-Learn, Matplotlib e Seaborn.
 

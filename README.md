@@ -1,4 +1,4 @@
-# Disciplina: Sistemas Inteligentes 🤖
+# Disciplina: Sistemas Inteligentes 
 
 Repositório destinado ao armazenamento e documentação dos trabalhos e projetos desenvolvidos na disciplina de **Sistemas Inteligentes**, ministrada pelo Prof. Pedro Thiago Valério de Souza no curso de Engenharia da UFERSA (Pau dos Ferros).
 

@@ -16,7 +16,8 @@ Repositório destinado ao armazenamento e documentação dos trabalhos e projeto
 Este projeto consistiu na construção de um modelo matemático de **Regressão Linear Múltipla** para prever a produção de energia de uma usina de ciclo combinado com base em sensores ambientais.
 
 * **Objetivo:** Otimizar o despacho energético através da análise de variáveis como Temperatura (AT), Vácuo (V), Pressão (AP) e Umidade (RH).
-* **Resultados Alcançados:** * **R²:** 0.9301 (O modelo explica 93% da variabilidade dos dados).
+* **Resultados Alcançados:**
+    * **R²:** 0.9301 (O modelo explica 93% da variabilidade dos dados).
     * **RMSE:** 4.5026 MW.
 * **Tecnologias:** Python, Pandas, Scikit-Learn, Matplotlib e Seaborn.
 
@@ -28,7 +29,8 @@ Este projeto consistiu na construção de um modelo matemático de **Regressão 
 Construção de um modelo de **Regressão Logística** para classificar a presença ou ausência de doença cardíaca com base em indicadores clínicos coletados em consultas de rotina.
 
 * **Objetivo:** Criar uma ferramenta de triagem precoce capaz de identificar pacientes de risco com alta confiabilidade.
-* **Resultados Alcançados:** * **Recall:** 0.9286 (Alta capacidade de identificar pacientes doentes).
+* **Resultados Alcançados:**
+    * **Recall:** 0.9286 (Alta capacidade de identificar pacientes doentes).
     * **AUC-ROC:** 0.9545 (Excelente capacidade de distinção entre as classes).
 * **Tecnologias:** Python, Pandas, Scikit-Learn (LogisticRegression, StandardScaler).
 

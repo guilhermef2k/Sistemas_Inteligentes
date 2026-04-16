@@ -5,8 +5,8 @@ Repositório destinado ao armazenamento e documentação dos trabalhos e projeto
 ---
 
 ## 👥 Autores
-* **Alex Bruno Duarte**
-* **Guilherme de França Vasconcelos**
+* **[Alex Bruno Duarte](https://github.com/alexb7z)** 
+* **[Guilherme de França Vasconcelos](https://github.com/guilhermef2k)**
 
 ---
 

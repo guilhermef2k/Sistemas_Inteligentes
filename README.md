@@ -31,31 +31,31 @@ Construção de um modelo de **Regressão Logística** para classificar a presen
 ---
 
 ### 3º Projeto: Classificação de Qualidade de Vinhos (UCI Wine Quality)
-Desenvolvimento de um classificador **k-Nearest Neighbors (k-NN)** para categorizar vinhos tintos em níveis de qualidade (Baixa, Média e Alta)[cite: 3].
-* **Resultados:** Acurácia global de 0.6875 (k=1)[cite: 3].
-* **Tecnologias:** Python, k-NN (Manual e Scikit-Learn), MinMaxScaler[cite: 3].
+Desenvolvimento de um classificador **k-Nearest Neighbors (k-NN)** para categorizar vinhos tintos em níveis de qualidade (Baixa, Média e Alta).
+* **Resultados:** Acurácia global de 0.6875 (k=1).
+* **Tecnologias:** Python, k-NN (Manual e Scikit-Learn), MinMaxScaler.
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermef2k/Sistemas_Inteligentes/blob/main/kNN/kNN_wine.ipynb)
 
 ---
 
 ### 4º Projeto: Classificação de Sinais de Radar (UCI Ionosphere)
-Implementação de uma **Rede Neural Adaline** para classificar retornos de radar ionosférico como "Good" (coerente) ou "Bad" (sem estrutura)[cite: 4].
-* **Resultados:** Acurácia global de 0.9577 e Recall de 1.0000 para a classe "Good" ($\eta = 0.001$)[cite: 4].
-* **Tecnologias:** Python, Adaline (SGDClassifier), StandardScaler, Matplotlib[cite: 4].
+Implementação de uma **Rede Neural Adaline** para classificar retornos de radar ionosférico como "Good" (coerente) ou "Bad" (sem estrutura).
+* **Resultados:** Acurácia global de 0.9577 e Recall de 1.0000 para a classe "Good" ($\eta = 0.001$).
+* **Tecnologias:** Python, Adaline (SGDClassifier), StandardScaler, Matplotlib.
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermef2k/Sistemas_Inteligentes/blob/main/Adaline.ipynb)
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-Projetos desenvolvidos no **Google Colab**, utilizando bibliotecas como NumPy, Pandas, Matplotlib e Scikit-Learn[cite: 2, 3, 4].
+Projetos desenvolvidos no **Google Colab**, utilizando bibliotecas como NumPy, Pandas, Matplotlib e Scikit-Learn.
 
 ## 📂 Estrutura do Repositório
 * `/Regressão Linear`: Notebook e dataset de usina termelétrica.
 * `/Regressão Logística`: Notebook e dataset de Cleveland.
-* `/kNN`: Notebook e dataset de qualidade de vinhos[cite: 3].
-* `/Adaline`: Notebook e dataset ionosférico[cite: 4].
+* `/kNN`: Notebook e dataset de qualidade de vinhos.
+* `/Adaline`: Notebook e dataset ionosférico.
 
 ---
 *Este repositório é atualizado conforme o progresso das atividades letivas do semestre 2026.1.*

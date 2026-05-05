@@ -44,7 +44,7 @@ Implementação de uma **Rede Neural Adaline** para classificar retornos de rada
 * **Resultados:** Acurácia global de 0.9577 e Recall de 1.0000 para a classe "Good" ($\eta = 0.001$).
 * **Tecnologias:** Python, Adaline (SGDClassifier), StandardScaler, Matplotlib.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermef2k/Sistemas_Inteligentes/blob/main/Adaline.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guilhermef2k/Sistemas_Inteligentes/blob/main/Adaline/Adaline.ipynb)
 
 ---
 

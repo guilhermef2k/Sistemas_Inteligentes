@@ -11,7 +11,8 @@ O monitoramento da ionosfera é vital para sistemas de GPS e telecomunicações.
 
 ## 🛠️ Tecnologias e Bibliotecas
 * **Linguagem:** Python
-* **Bibliotecas:** * `Pandas` e `NumPy` para manipulação de dados.
+* **Bibliotecas:**
+    * `Pandas` e `NumPy` para manipulação de dados.
     * `Scikit-Learn` para implementação do modelo (`SGDClassifier`) e métricas.
     * `Matplotlib` para visualização das curvas de convergência.
     * `StandardScaler` para padronização Z-score.
